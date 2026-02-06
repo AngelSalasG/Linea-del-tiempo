@@ -1,0 +1,330 @@
+[
+  {
+    "id": "card_01_megafauna",
+    "tags": ["Evento"],
+    "date": "50.000–10.000 a.C.",
+    "title": "Extinciones de la megafauna del Cuaternario (50.000–10.000 a.C.)",
+    "text": "Extinciones de la megafauna del Cuaternario (Pleistoceno al Holoceno) (más de la mitad de todas las especies mayores a 40 kg, especialmente en Australia y América, la depredación humana fue un contribuyente significativo).",
+    "extra": ""
+  },
+  {
+    "id": "card_02_edad_hielo",
+    "tags": ["Historia"],
+    "date": "Hace unos 11.700 años",
+    "title": "Fin de la última Edad de Hielo (Hace unos 11.700 años)",
+    "text": "Hace unos 11.700 años, finalizó la última Edad de Hielo, dando lugar a la era climática moderna y al florecimiento de la humanidad.",
+    "extra": ""
+  },
+  {
+    "id": "card_03_feng_shui",
+    "tags": ["Cultura"],
+    "date": "4000 a.C.",
+    "title": "Filosofía Feng Shui (4000 a.C.)",
+    "text": "Filosofía Feng Shui de armonía entre el medio ambiente y el paisaje físico.",
+    "extra": "Los principios del Feng Shui pueden relacionarse profundamente con la sustentabilidad y el cuidado del medioambiente. De hecho, el Feng Shui y la sustentabilidad pueden coexistir y complementarse, destacando la importancia de la naturaleza y la consciencia ambiental en nuestra vida cotidiana."
+  },
+  {
+    "id": "card_04_vertedero",
+    "tags": ["Residuos"],
+    "date": "3000 a.C.",
+    "title": "Primer vertedero (3000 a.C.)",
+    "text": "En Cnosos (Creta) se cree que se estableció el primer vertedero (basura).",
+    "extra": ""
+  },
+  {
+    "id": "card_05_atenas_residuos",
+    "tags": ["Ley"],
+    "date": "500 a.C.",
+    "title": "Ley de residuos en Atenas (500 a.C.)",
+    "text": "Atenas introduce una ley que exige que los residuos se viertan al menos a 1 milla de la ciudad; El arte de la guerra de Sun Tzu y la estrategia de uso y planificación de recursos.",
+    "extra": ""
+  },
+  {
+    "id": "card_06_song",
+    "tags": ["Historia"],
+    "date": "960-1279",
+    "title": "Dinastía Song (960-1279)",
+    "text": "La dinastía Song florece en China, se cree que fue la primera en utilizar papel moneda, el primer uso de inoculaciones contra la viruela, se extiende al Imperio Otomano (se generaliza después de 1721 cuando Mary Wortley Montagu, esposa del embajador británico en Turquía, inocula a sus propios hijos).",
+    "extra": ""
+  },
+  {
+    "id": "card_07_paris_1366",
+    "tags": ["Residuos"],
+    "date": "1366",
+    "title": "París: regulación de desechos (1366)",
+    "text": "La ciudad de París obliga a los carniceros a eliminar los desechos animales fuera de la ciudad.",
+    "extra": ""
+  },
+  {
+    "id": "card_08_inglaterra_1388",
+    "tags": ["Ley"],
+    "date": "1388",
+    "title": "Inglaterra: prohibición de arrojar basura (1388)",
+    "text": "El Parlamento inglés prohíbe arrojar basura en zanjas, ríos y aguas.",
+    "extra": ""
+  },
+  {
+    "id": "card_09_mineria_1540",
+    "tags": ["Impacto"],
+    "date": "1540",
+    "title": "Minería colonial y contaminación (1540)",
+    "text": "Evidencia de contaminación atmosférica de la minería colonial en Perú y Bolivia.",
+    "extra": ""
+  },
+  {
+    "id": "card_10_khejadali_1730",
+    "tags": ["Movimiento"],
+    "date": "Septiembre de 1730",
+    "title": "Khejadali: protección de árboles (Septiembre de 1730)",
+    "text": "En la India, cientos de personas en Khejadali fueron asesinadas al intentar proteger los árboles del Maharajá de Jodphur (considerado el origen del movimiento Chipko del siglo XX).",
+    "extra": ""
+  },
+  {
+    "id": "card_11_rev_industrial",
+    "tags": ["Historia"],
+    "date": "Década de 1770 a 1830",
+    "title": "Revolución Industrial (Década de 1770 a 1830)",
+    "text": "Inicio de la Revolución Industrial en Gran Bretaña (textiles, energía de vapor, hierro); auge de la esclavitud transatlántica.",
+    "extra": ""
+  },
+  {
+    "id": "card_12_uicn_1948",
+    "tags": ["Organización"],
+    "date": "1948",
+    "title": "Fundación de la UICN (1948)",
+    "text": "La UICN (Unión Internacional para la Conservación de la Naturaleza) se fundó el 5 de octubre de 1948 en la ciudad francesa de Fontainebleau, como primera unión ambiental mundial, unimos a gobiernos y a la sociedad civil con el objetivo común de proteger la naturaleza.",
+    "extra": ""
+  },
+  {
+    "id": "card_13_dia_tierra_1970",
+    "tags": ["Historia"],
+    "date": "1970",
+    "title": "Día de la Tierra (1970)",
+    "text": "Su promotor, el senador estadounidense Gaylord Nelson, instauró este día para crear una conciencia común a los problemas de la superpoblación, la producción de contaminación, la conservación de la biodiversidad y otras preocupaciones ambientales para proteger la Tierra.",
+    "extra": ""
+  },
+  {
+    "id": "card_14_dia_planeta_1970",
+    "tags": ["Historia"],
+    "date": "1970",
+    "title": "Día del Planeta Tierra (22 de abril de 1970)",
+    "text": "El día del planeta tierra, 22 de abril de 1970, como iniciativa del senador Gaylord Nelson.",
+    "extra": ""
+  },
+  {
+    "id": "card_15_estocolmo_1972",
+    "tags": ["Cumbre"],
+    "date": "1972",
+    "title": "Cumbre de la Tierra (Estocolmo) (1972)",
+    "text": "Cumbre de la tierra: (Estocolmo, Suecia) se establece el principio 19, que dice que es necesaria una labor de educación en cuestiones ambientales.",
+    "extra": ""
+  },
+  {
+    "id": "card_16_ozono_1976",
+    "tags": ["Evento"],
+    "date": "1976",
+    "title": "Evidencia del agujero de ozono (1976)",
+    "text": "El informe de la Academia Nacional de las Ciencias de Estados Unidos mostró la primera evidencia sobre el agujero de la capa de ozono en 1976.",
+    "extra": "A partir de entonces, Canadá, Suecia, Noruega y Estados Unidos lideraron iniciativas para reducir emisiones de CFC."
+  },
+  {
+    "id": "card_17_tbilisi_1977",
+    "tags": ["Conferencia"],
+    "date": "1977",
+    "title": "Conferencia de Tbilisi (1977)",
+    "text": "La primera Conferencia Intergubernamental sobre Educación Ambiental se celebró en Tbilisi (Georgia, URSS) del 14 al 26 de octubre de 1977.",
+    "extra": "Constituyó el punto de partida de un programa internacional de educación ambiental con apoyo unánime de los Estados Miembros."
+  },
+  {
+    "id": "card_18_global2000_1980",
+    "tags": ["Informe"],
+    "date": "1980",
+    "title": "Informe Global 2000 (1980)",
+    "text": "Informe Global 2000.",
+    "extra": "Reconoce por primera vez a la biodiversidad como característica crítica del sistema planetario y advierte que la extinción debilita los ecosistemas."
+  },
+  {
+    "id": "card_19_wri_1982",
+    "tags": ["Organización"],
+    "date": "1982",
+    "title": "Instituto de Recursos Mundiales (1982)",
+    "text": "Creación del Instituto de Recursos Mundiales.",
+    "extra": "Se crea en EEUU y su misión es encauzar a la sociedad humana hacia formas de vida que protejan el medio ambiente de la Tierra y su capacidad de satisfacer las necesidades de generaciones presentes y futuras."
+  },
+  {
+    "id": "card_20_renace_1985",
+    "tags": ["Movimiento"],
+    "date": "1985",
+    "title": "RENACE (1985)",
+    "text": "Se organizaron redes entre organizaciones ambientalistas, naciendo RENACE, La Red Nacional de Acción Ecológica.",
+    "extra": ""
+  },
+  {
+    "id": "card_21_brundtland_1987",
+    "tags": ["Informe"],
+    "date": "1987",
+    "title": "Informe Brundtland (1987)",
+    "text": "El informe Brundtland es un informe publicado para las Naciones Unidas, que enfrenta y contrasta la postura del desarrollo económico actual junto con el de la sustentabilidad ambiental.",
+    "extra": ""
+  },
+  {
+    "id": "card_22_manifestacion_1988",
+    "tags": ["Movimiento"],
+    "date": "1988",
+    "title": "Primera manifestación ecológica (1988)",
+    "text": "Miles de agricultores y mineros acompañados de sus familias tomaron las calles de Río tinto.",
+    "extra": ""
+  },
+  {
+    "id": "card_23_rio_1992",
+    "tags": ["Cumbre"],
+    "date": "1992",
+    "title": "Cumbre de la Tierra II (Río) (1992)",
+    "text": "Cumbre de la tierra II: (Río de janeiro, Brasil) organizado por la ONU se tuvieron en cuenta las problemáticas relacionadas con la salud, vivienda, contaminación del aire gestión de los mares, bosques y montañas, etc.",
+    "extra": ""
+  },
+  {
+    "id": "card_24_lisboa_1996",
+    "tags": ["Conferencia"],
+    "date": "1996",
+    "title": "Conferencia de Ciudades Europeas Sostenibles (1996)",
+    "text": "Segunda Conferencia de Ciudades Europeas Sostenibles. Plan de Actuación de Lisboa.",
+    "extra": "Evaluó el progreso de la Agenda 21 Local en ciudades europeas y analizó puntos difíciles del proceso definido en la Carta de Aalborg."
+  },
+  {
+    "id": "card_25_kioto_1997",
+    "tags": ["Protocolo"],
+    "date": "1997",
+    "title": "Protocolo de Kioto (1997)",
+    "text": "Es un acuerdo internacional que tiene por objetivo las emisiones de seis gases de efecto invernadero que causan el calentamiento global, en 37 países del 2008 al 2012.",
+    "extra": ""
+  },
+  {
+    "id": "card_26_vi_programa_2001",
+    "tags": ["Programa"],
+    "date": "2001",
+    "title": "VI Programa de Acción Ambiental (UE) (2001)",
+    "text": "VI Programa de Acción en Materia de Medio Ambiente de la Unión Europea.",
+    "extra": "Reconoce que el cambio climático es el principal reto y busca reducir emisiones de gases de efecto invernadero para evitar cambios artificiales del clima."
+  },
+  {
+    "id": "card_27_johannesburgo_2002",
+    "tags": ["Cumbre"],
+    "date": "2002",
+    "title": "Cumbre Mundial del Desarrollo Sustentable (2002)",
+    "text": "Cumbre mundial del Desarrollo Sustentable: (Johannesburgo, África del sur) este encuentro pretendía ofrecer un discurso ecologista como parte de la labor de concientización sobre la importancia del desarrollo sustentable.",
+    "extra": ""
+  },
+  {
+    "id": "card_28_aalborg10_2004",
+    "tags": ["Conferencia"],
+    "date": "2004",
+    "title": "Aalborg+10 (2004)",
+    "text": "Conferencia Aalborg+10 – Inspiración para el futuro.",
+    "extra": ""
+  },
+  {
+    "id": "card_29_urbano_2006",
+    "tags": ["Programa"],
+    "date": "2006",
+    "title": "Estrategia para medio ambiente urbano (2006)",
+    "text": "Comunicación de la Comisión al Consejo y al Parlamento Europeo sobre una Estrategia temática para el medio ambiente urbano.",
+    "extra": ""
+  },
+  {
+    "id": "card_30_cambio_climatico_2009",
+    "tags": ["Conferencia"],
+    "date": "2009",
+    "title": "XV Conferencia Internacional sobre Cambio Climático (2009)",
+    "text": "XV Conferencia Internacional sobre el Cambio Climático.",
+    "extra": ""
+  },
+  {
+    "id": "card_31_nagoya_2010",
+    "tags": ["Protocolo"],
+    "date": "2010",
+    "title": "Protocolo de Nagoya (2010)",
+    "text": "El Protocolo de Nagoya es un acuerdo complementario al Convenio sobre la Diversidad Biológica (CDB) que tiene como objetivo la participación justa y equitativa de los beneficios derivados de la utilización de los recursos genéticos.",
+    "extra": "En vigor desde octubre de 2014."
+  },
+  {
+    "id": "card_32_rio20_2012",
+    "tags": ["Cumbre"],
+    "date": "2012",
+    "title": "Río+20 (2012)",
+    "text": "Los dirigentes mundiales, sector privado y ONG se reunieron para reducir la pobreza, avanzar hacia la equidad social y asegurar la protección ambiental.",
+    "extra": "Conferencia del 20 al 22 de junio de 2012."
+  },
+  {
+    "id": "card_33_paris_2015",
+    "tags": ["Acuerdo"],
+    "date": "2015",
+    "title": "Acuerdo de París (2015)",
+    "text": "Tratado internacional sobre el cambio climático jurídicamente vinculante, adoptado por 196 Partes en la COP21.",
+    "extra": "Adoptado el 12 de diciembre de 2015; entró en vigor el 4 de noviembre de 2016. Objetivo: limitar el calentamiento global muy por debajo de 2°C, idealmente 1.5°C."
+  },
+  {
+    "id": "card_34_agenda2030_2015",
+    "tags": ["Agenda"],
+    "date": "2015",
+    "title": "Agenda 2030 y 17 ODS (2015)",
+    "text": "Jefes de Estado y de Gobierno aprobaron la Agenda 2030 que contiene 17 Objetivos de Desarrollo Sostenible (ODS).",
+    "extra": "Suscrita por 193 Estados Miembros; guía durante 15 años hacia sostenibilidad económica, social y ambiental."
+  },
+  {
+    "id": "card_35_cop25_2019",
+    "tags": ["COP"],
+    "date": "2019",
+    "title": "COP25 (2019)",
+    "text": "Reunión en España donde líderes mundiales, sociedad civil, jóvenes, activistas y sector privado avanzaron en políticas y acciones sobre cambio climático.",
+    "extra": "Del 2 al 13 de diciembre de 2019."
+  },
+  {
+    "id": "card_36_cop26_2021",
+    "tags": ["COP"],
+    "date": "2021",
+    "title": "COP26 (2021)",
+    "text": "La 26º sesión de la conferencia sobre el cambio climático de la ONU (COP26) se llevó a cabo en Glasgow, Escocia.",
+    "extra": "Del 31 de octubre al 12 de noviembre de 2021; momento clave para definir acuerdos."
+  },
+  {
+    "id": "card_37_kunming_montreal_2022",
+    "tags": ["Biodiversidad"],
+    "date": "2022",
+    "title": "Marco Mundial de Biodiversidad Kunming-Montreal (2022)",
+    "text": "Durante la COP 15 en Montreal se adoptó de manera unánime el Marco Mundial de Biodiversidad de Kunming-Montreal.",
+    "extra": "Establece una visión transformadora con 4 objetivos y 23 metas para guiar a los países en biodiversidad."
+  },
+  {
+    "id": "card_38_cumbre_ods_2023",
+    "tags": ["Cumbre"],
+    "date": "2023",
+    "title": "Cumbre de los ODS (2023)",
+    "text": "Marcó el inicio de una nueva fase de progreso acelerado hacia los Objetivos de Desarrollo Sostenible, con orientación política de alto nivel.",
+    "extra": "Acciones transformadoras y aceleradas rumbo a 2030."
+  },
+  {
+    "id": "card_39_megaciudades_2025",
+    "tags": ["Futuro"],
+    "date": "2025",
+    "title": "Megaciudades (2025)",
+    "text": "Se espera que 101 ciudades tengan poblaciones de más de 5 millones (aproximadamente 907 millones en total; frente a los 691 millones de 2006).",
+    "extra": ""
+  },
+  {
+    "id": "card_40_poblacion_co2_2042",
+    "tags": ["Futuro"],
+    "date": "2042",
+    "title": "Proyección población y CO2 (2042)",
+    "text": "Población humana probable de 9 mil millones (6.3 mil millones urbanos); CO2 atmosférico ~450 ppm.",
+    "extra": ""
+  },
+  {
+    "id": "card_41_megaciudades_2050",
+    "tags": ["Futuro"],
+    "date": "2050",
+    "title": "Megaciudades (2050)",
+    "text": "Se espera que 122 ciudades tengan poblaciones de más de 5 millones (~1.400 millones; se espera que 154 ciudades tengan poblaciones de más de 5 millones para 2100 – población total ~ 2.400 millones).",
+    "extra": ""
+  }
+]
